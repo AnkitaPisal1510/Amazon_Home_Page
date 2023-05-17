@@ -1,0 +1,279 @@
+* {
+    box-sizing: border-box;
+}
+body{
+	margin:0px;
+	padding:0px;
+}
+.row {
+   
+}
+
+.row1 {
+    height: 60px;
+    background-color:black;
+}
+
+.row2 {
+    height: 50px;
+	margin-bottom:15px;
+	background-color: #232F3E;
+}
+
+.row3 {
+    height: 300px;
+    margin: auto;
+    width: 1500px;
+}
+
+.row4 {
+    height: 420px;
+    width: 1500px;
+    margin:auto;
+    padding:20px 0px 10px 0px;  
+}
+
+.row5 {
+    height: 420px;
+    width: 1500px;
+    margin:auto;
+    padding:20px 0px 10px 0px;
+}
+
+.row6 {
+    height: 300px;
+    margin: auto;
+    width: 1500px;
+    padding:15px 0px 10px 0px;
+    margin-bottom:10px;
+}
+
+.row7{
+	height: 500px;
+    margin: auto;
+    width: auto;
+	padding:0px 350px 0px 400px;
+	background-color: #232F3E;	
+}
+
+.col11 {
+    height: 60px;
+    width: 117px;
+    float: left;
+    padding:0px 2px 0px 1px;
+    font-family:sans-serif;	
+}
+
+.col12 {
+    height: 60px;
+    width: 120px;
+    float: left;
+    padding:0px 2px 0px 2px;
+   	text-align:center;
+	color:white;
+	font-family:sans-serif;	
+}
+
+.col13 {
+    height: 40px;
+    width: 1200px;
+    float: left;
+    margin:8px 8px 8px 4px;
+    background-color:white;
+    font-family:sans-serif;	
+}
+
+.col14 {
+    height: 60px;
+    width: 60px;
+    float: left;
+	text-align:center;
+	color:white;
+	padding:0px 2px 0px 2px;
+	font-family:sans-serif;	
+}
+
+.col15 {
+    height: 60px;
+    width: 140px;
+    float: left;
+    padding:0px 2px 0px 2px;
+    color:white;
+    text-align:center;
+    font-family:sans-serif;	
+}
+
+.col16 {
+    height: 60px;
+    width: 110px;
+    float: left;
+    padding:0px 2px 0px 2px;
+    color:white;
+    text-align:center;
+    font-family:sans-serif;	
+}
+
+.col17 {
+    color:white;
+    height: 60px;
+    width: 66px;
+  	padding:0px 2px 0px 9px;
+    float: left;
+    font-family:sans-serif;	
+}
+
+.col21 {
+    color:white;
+    height: 100%;
+    float: left;
+    padding:0px 8px 0px 8px;
+    line-height:10px;
+    font-family:sans-serif;	
+}
+
+.col22 {
+    color:white;
+    height: 100%;
+    float: left;
+    padding:0px 8px 0px 8px;
+    line-height:10px;
+    font-family:sans-serif;	
+}
+
+.col23 {
+    color:white;
+    height: 100%;
+    float: left;
+    padding:0px 8px 0px 8px;
+    line-height:10px;
+    font-family:sans-serif;	
+}
+
+.col24 {
+    color:white;
+    height: 100%;
+    float: left;
+    padding:0px 8px 0px 8px;
+    line-height:10px;
+    font-family:sans-serif;	
+}
+
+.col25 {
+    color:white;
+    height: 100%;
+    float: left;
+    padding:0px 8px 0px 8px;
+    line-height:10px;
+    font-family:sans-serif;	
+}
+
+.col26 {
+    color:white;
+    height: 100%;
+    float: left;
+   	padding:0px 8px 0px 8px;
+    line-height:10px;
+    font-family:sans-serif;	
+}
+
+.col27 {
+    color:white;
+    height: 100%;
+    float: right;
+    padding:0px 8px 0px 8px;
+    line-height:10px;
+    font-family:sans-serif;	
+}
+
+.col41 {
+    height: 100%;
+    width: 360px;
+    float: left;
+
+}
+
+.col42 {
+    height: 100%;
+    width: 360px;
+    float: left;
+    margin-left: 20px;
+}
+
+.col43 {
+    height: 100%;
+    width: 360px;
+    float: left;
+    margin-left: 20px;
+}
+
+.col44 {
+    height: 100%;
+    width: 360px;
+    float: left;
+    margin-left: 20px;
+}
+.col51 {
+    height: 100%;
+    width: 360px;
+    float: left;
+
+}
+
+.col52 {
+    height: 100%;
+    width: 360px;
+    float: left;
+    margin-left: 20px;
+}
+
+.col53 {
+    height: 100%;
+    width: 360px;
+    float: left;
+    margin-left: 20px;
+}
+
+.col54 {
+    height: 100%;
+    width: 360px;
+    float: left;
+    margin-left: 20px;
+}
+.col71{
+	height: 500px;
+    width: 200px;
+    float: left;
+    font-size:16px;
+    padding:10px;
+    color:white;
+    font-family:sans-serif;	
+	
+}
+.col72{
+	height: 500px;
+    width: 250px;
+    float: left;
+    padding:10px;
+    font-size:16px;
+	color:white;
+	font-family:sans-serif;	
+}
+.col73{
+	height: 500px;
+    width: 330px;
+    float: left;
+    padding:10px;
+    font-size:16px;
+	color:white;
+	font-family:sans-serif;	
+}
+.col74{
+	height: 500px;
+    width: 250px;
+    float: left;
+    padding:10px;
+   	font-size:16px;
+   	color:white;
+   	font-family:sans-serif;		
+}
+
